@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TheWander02</h1>
-<h3 align="center">A passionate frontend developer from America</h3>
+<h3 align="center">A passionate FullStack developer from America</h3>
 
 - 💬 Ask me about **anything**
 
