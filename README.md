@@ -70,6 +70,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/427518425238339605)](https://discord.com/users/427518425238339605)
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
