@@ -18,8 +18,6 @@
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/427518425238339605)](https://discord.com/users/427518425238339605)
-
 <h1 align="center">Hi 👋, I'm TheWander02</h1>
 
 ###
