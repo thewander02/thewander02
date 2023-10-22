@@ -18,6 +18,10 @@
 
 ###
 
+<div align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/427518425238339605)](https://discord.com/users/427518425238339605)
+</div>
+
 <h1 align="center">Hi 👋, I'm TheWander02</h1>
 
 ###
@@ -69,9 +73,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/427518425238339605)](https://discord.com/users/427518425238339605)
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
