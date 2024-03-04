@@ -81,6 +81,8 @@
 </picture>
 
 
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=thewander02&no-bg=true&no-frame=true&rank=-C,-B,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 ###
