@@ -80,4 +80,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thewander02/thewander02/output/github-contribution-grid-snake.svg">
 </picture>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thewander02&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ###
