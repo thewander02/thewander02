@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">A passionate FullStack developer from America<br><br>- 🔭 I’m working as a Lead Fullstack Engineer @pyro inc   - ⚡ In my free time i make websites and gmod addons</p>
+<p align="left">A passionate FullStack developer from America<br><br>- 🔭 I’m working as a Lead Fullstack Engineer. In my free time i make websites and gmod addons</p>
 
 ###
 
