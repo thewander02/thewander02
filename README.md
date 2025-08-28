@@ -26,14 +26,4 @@
 
 ###
 
-<p align="left">A passionate FullStack developer from America<br><br>- 🔭 I’m working as a Lead Fullstack Engineer. In my free time i make websites and gmod addons</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=thewander02&no-bg=true&no-frame=true&rank=-C,-B,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
-
-###
+<p align="left">A passionate FullStack developer from America<br><br>- 🔭 I’m founding @Blackbox Labs LLC. In my free time i make websites and gmod addons</p>
